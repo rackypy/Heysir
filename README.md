@@ -1,2 +1,0 @@
-# Heysir
-Tea Node
